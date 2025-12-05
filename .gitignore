@@ -213,3 +213,4 @@ data/
 .ipynb_checkpoints/
 figures/
 insurance-dvc-storage/
+/data.csv
