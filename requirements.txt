@@ -4,3 +4,5 @@ scipy
 seaborn
 dvc
 statsmodels
+scikit-learn
+xgboost
