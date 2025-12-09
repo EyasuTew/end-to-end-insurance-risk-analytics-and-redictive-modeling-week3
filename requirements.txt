@@ -6,3 +6,4 @@ dvc
 statsmodels
 scikit-learn
 xgboost
+shap
